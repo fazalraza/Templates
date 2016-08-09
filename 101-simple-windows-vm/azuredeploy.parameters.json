@@ -3,17 +3,25 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "farazastore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
-    }
+      "value": "faraza8989"
+    },
+    "location": {
+      "value": "Est US"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
+          }
+          
+       }
   }
-}
+
 
